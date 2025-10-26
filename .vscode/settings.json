@@ -1,7 +1,0 @@
-{
-    "C_Cpp.default.compilerPath": "e:\\C (additional files)\\ucrt64\\bin\\gcc.exe",
-    "files.associations": {
-        "stdio.h": "c"
-    },
-    "C_Cpp.errorSquiggles": "disabled"
-}
